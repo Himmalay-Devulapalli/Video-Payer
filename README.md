@@ -1,4 +1,4 @@
-# Video-Payer
+# Video-Payer with hand recognition feature
 
 This is a video player develped in python using PyQt5 package, object oriented programming and multi threading. It supports and can play all video formats. Unlike other video players, this application uses hand recognition to pause and play the video.
 
