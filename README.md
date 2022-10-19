@@ -17,4 +17,4 @@ PyQt5.QtGui\
 PyQt5.QtCore\
 numpy\
 mediapipe\
-tensorflow.keras\
+tensorflow.keras
